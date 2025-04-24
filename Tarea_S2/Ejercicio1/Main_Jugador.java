@@ -38,7 +38,7 @@ public class Main_Jugador {
 
         // HOLA COMO ESTAS
         // Buenos Dias
-
+     // buenas tarde
         scanner.close();
     }
 }
