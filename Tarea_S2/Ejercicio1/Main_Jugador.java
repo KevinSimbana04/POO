@@ -39,7 +39,7 @@ public class Main_Jugador {
         // HOLA COMO ESTAS
         // Buenos Dias
 
-        //que haces
+        //Buenas Noches
 
         scanner.close();
     }
