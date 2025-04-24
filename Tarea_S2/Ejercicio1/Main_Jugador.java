@@ -26,7 +26,7 @@ public class Main_Jugador {
         System.out.print("Ingrese el Num_Camiseta");
         int num_camiseta = scanner.nextInt();
 
-        // objeto (Jugador-03)
+        // objeto (Jugador3)
         jugador jugador3=new jugador(nombre, posicion, edad, num_camiseta);
 
         // visualizar los atributos de cada objeto
@@ -38,7 +38,7 @@ public class Main_Jugador {
 
         // HOLA COMO ESTAS
         // Buenos Dias
-
+     // buenas tarde
         scanner.close();
     }
 }
