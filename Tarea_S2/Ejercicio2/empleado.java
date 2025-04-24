@@ -26,5 +26,5 @@ public class empleado {
         System.out.println("Fecha_ingreso: " + fecha_ingreso);
         System.out.println("--------------------------------------");
     }
-
+  //Hola
 }
