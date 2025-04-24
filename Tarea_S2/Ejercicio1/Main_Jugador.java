@@ -35,6 +35,9 @@ public class Main_Jugador {
         jugador2.mostrar_informacion();
         jugador3.mostrar_informacion();
 
+
+        // HOLA COMO ESTAS
+
         scanner.close();
     }
 }
